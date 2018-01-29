@@ -1,1 +1,30 @@
-love-letters.css
+@import url('https://fonts.googleapis.com/css?family=Cormorant+Garamond');
+@import url('https://fonts.googleapis.com/css?family=Source+Serif+Pro');
+
+body{
+	background-color: #fbe4e4;
+}
+.links{
+	margin:1em;
+}
+
+.heart{
+	display:block;
+	margin:auto;
+	padding:.5em;
+	box-sizing: border-box;
+}
+
+h1{
+	font-size:48px;
+	margin:1em;
+	font-family: 'Source Serif Pro', serif;
+	color:#b39ae5;
+}
+
+header{
+	display:flex;
+	justify-content: center;
+	background-color:rgba(253,241,241,.6);
+}
+

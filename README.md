@@ -1,2 +1,2 @@
-#BASH, GIT, & GITHUB Love Letters
-##Standard Operation Procedures
+# BASH, GIT, & GITHUB Love Letters
+## Standard Operation Procedures
