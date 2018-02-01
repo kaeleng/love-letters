@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css?family=Caveat|Raleway');
+@import url('https://fonts.googleapis.com/css?family=Nothing+You+Could+Do');
+
 body{
 	background-image:url(../img/sakura.png);
 }
@@ -23,18 +26,25 @@ nav a{
 	padding:10px;
 	text-decoration: none;
 	font-size: 30px;
-	font-family: 'PT Sans Caption', sans-serif;
+	font-family: 'Raleway', sans-serif;
 	color:#595959;
+}
+
+li a:hover{
+	border-bottom:1px dotted 	#fffbed;
 }
 
 header{
 	text-align:center;
 	font-size: 32px;
-	border-bottom: 1px dotted;
+	border-bottom: 1px dotted 	#fffbed;
 }
 
 main{
 	font-size:24px;
+	font-family: 'Nothing You Could Do', cursive;
+	color:#181719;
+	/* background-color: rgba(242, 242, 242, .6); */
 
 }
 
@@ -47,4 +57,11 @@ main{
 .flex-item{
 	width:60%;
 	text-align: center;
+	background-color: rgba(255,242,237,.6);
+	padding:1em;
+
+}
+
+em{
+	color:#a9a5b2;
 }
