@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css?family=Lovers+Quarrel');
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+body{
+	background-color:#e6e6e6;
+}
+
+header{
+	text-align: left;
+	margin:1.2em;
+	font-size:28px;
+	font-family: 'Alegreya', serif;
+	color:#595959;
+	width:90%;
+	margin-left:85px;
+}
+
+main{
+	font-size: 36px;
+	color:#333333;
+	font-family:'Lovers Quarrel', cursive;
+}
+
+.flex-container{
+	width:75%;
+	display:flex;
+	justify-content: center;
+}
+
+.flex-item{
+	margin:1em auto;
+	padding:1em;
+}
+
+.rose{
+	width:80%;
+	height:auto;
+}
+
+
+header h1,header nav{
+	display: inline-block;
+	vertical-align: middle;
+}
+
+h1{
+	text-align: center;
+	border-bottom: 1px solid #ccc;
+}
+
+ ul{
+	list-style-type: none;
+}
+
+li a{
+	text-decoration: none;
+	text-align:center;
+	padding:14px 16px;
+	font-family: 'Montserrat', sans-serif;
+	color:#595959;
+}
+
+li a:hover{
+	color:#C60000;
+	font-size: 32px;
+}
+
+em{
+	color:#C60000;
+}

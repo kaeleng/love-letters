@@ -25,6 +25,6 @@ h1{
 header{
 	display:flex;
 	justify-content: center;
-	background-color:rgba(253,241,241,.6);
+	/* background-color:rgba(253,241,241,.6); */
 }
 
